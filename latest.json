@@ -1,0 +1,8 @@
+{
+  "_readme": "发新版：上传新的 MouseClicker.exe，再把 version 改成新版本号、更新 notes；version 必须比 config.py 的 APP_VERSION 大才会提示。",
+  "version": "2.3",
+  "url": "https://raw.githubusercontent.com/xiaofeng733/my-blog/main/MouseClicker.exe",
+  "notes": "· 界面全面圆角化：卡片、按钮、分段选择器、输入框、徽标统一圆角\n· 键鼠参数与发送方式改为分段选择，操作层级更清晰\n· 键盘内容支持「逐字输入 / 整段粘贴」，表情与长文本更稳\n· 启动时自动检查更新，可在 ⚙ 菜单手动检查",
+  "mandatory": false,
+  "min_supported": "2.0"
+}
